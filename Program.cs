@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace Test2
+﻿namespace Test2
 {
     internal class Program
     {
